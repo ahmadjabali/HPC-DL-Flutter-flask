@@ -1,0 +1,1 @@
+http://ahmadjjabali.pythonanywhere.com/model?inputOne=0.360507&inputTwo=0.308494&inputThree=0.056841&inputFour=0.096502&inputFive=0.030660&inputSix=0.704830&inputSeven=0.094073&inputEight=0.590437&inputNine=0.215782&inputTen=0.193885&inputEleven=0.258364
